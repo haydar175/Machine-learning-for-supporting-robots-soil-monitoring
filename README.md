@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/a3fa40dd-21d2-4d5e-8398-f05ae9a6461e)
+
+
+
+
+
+
 **References** 
 
 [1]: Altana A, Hamed S, Lugli P, Petti L, Ibba P. Monitoring iron stress in tomato plants through bioimpedance and machine-learning-enhanced classification based on circuit component analysis. IEEE Transactions on AgriFood Electronics. 2024 Jun 17.
